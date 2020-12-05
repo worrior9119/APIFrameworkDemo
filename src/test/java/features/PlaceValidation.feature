@@ -9,6 +9,7 @@ Feature: Validaying place API's
     And user added query parameter "place_id"
     And User calls "GetPlaceAPI" with "get" http request
     And User validate "<Name>" with response parameter "name"
+    And User add new story line for practice first push
 
 
 
