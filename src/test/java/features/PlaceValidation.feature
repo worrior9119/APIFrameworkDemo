@@ -17,6 +17,7 @@ Feature: Validaying place API's
     | Mark John    | French    | 103 Geere Road    |
     | Alex Mercer  | German    | 102 Uptown Park   |
     | Daniel Craig | English   | 009 Prown walley  |
+    | Nicolas Cage | English   | 197 Easton Hills  |
 
 
   Scenario: Delete Place request
